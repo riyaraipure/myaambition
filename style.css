@@ -1,0 +1,28 @@
+body{
+    background-color: cornflowerblue;
+    text-align: center;
+    padding: 20px;
+}
+
+h1{
+    color: crimson;
+    padding: 10px;
+    font-size: 50px;
+}
+
+h2{
+    color: indianred;
+    padding: 10px;
+}
+
+p{
+    font-size: 20px;
+    padding: 10px;
+}
+
+img{
+    border: 5px solid black;
+    border-radius: 10px;
+    height: 300px;
+    width: 300px;
+}
